@@ -314,9 +314,7 @@ const fetchApplications = async () => {
        <div title='Properties' >
          <Demo></Demo>
        </div>
-       <div title='Load Testing' >
-         <LoadTester></LoadTester>
-       </div>
+    
     </Tabs>
     {displayCreateDialog && <Dialog open={true} onClose={closeCreateDialog}>
         <DialogTitle>
