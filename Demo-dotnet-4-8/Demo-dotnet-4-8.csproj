@@ -232,7 +232,7 @@
     <Content Include="img\intro2.png" />
     <Content Include="img\logo256.png" />
     <Content Include="img\upload.png" />
-    <Content Include="index2.html" />
+    <Content Include="home.html" />
     <Content Include="precache-manifest.ee6902c740711d03b82803d7b83c73d5.js" />
     <Content Include="service-worker.js" />
     <Content Include="favicon.ico" />
@@ -264,6 +264,7 @@
     <Content Include="Areas\HelpPage\Views\Help\Api.cshtml" />
     <Content Include="manifest.json" />
     <Content Include="asset-manifest.json" />
+    <Content Include="App.config" />
     <None Include="Scripts\jquery-3.7.0.intellisense.js" />
     <Content Include="Scripts\jquery-3.7.0.js" />
     <Content Include="Scripts\jquery-3.7.0.min.js" />
